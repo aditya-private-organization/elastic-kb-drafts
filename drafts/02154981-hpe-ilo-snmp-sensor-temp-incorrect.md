@@ -1,3 +1,18 @@
+## Publishing Metadata (Innovation Hub — support.elastic.dev/knowledge/create)
+
+| Field | Value |
+|---|---|
+| **Type** | Break-Fix |
+| **Solution** | Observability |
+| **Platform** | Self-managed / On-premise |
+| **Deployment Type** | Elastic self-managed |
+| **Deployment Versions** | _(leave blank — not version-gated)_ |
+| **Product** | Logstash |
+| **Product Versions** | 9.x (confirmed 9.4) |
+| **Component** | SNMP input (logstash-integration-snmp) |
+
+---
+
 **Type:** Break-Fix
 
 # HPE iLO SNMP sensor temperatures incorrect in Logstash
